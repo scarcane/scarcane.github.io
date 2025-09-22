@@ -1,9 +1,9 @@
-# Scarcane Games
+# Scarcane
 
 Welcome to the official support page for Scarcane Games.
 
 ## Our Games
-- Happy Runner 2D – available on Amazon Appstore.
+- Happy Runner 2D
 
 ## Support
 If you have issues with the app, please contact us:
